@@ -1,4 +1,3 @@
-// src/components/PasswordEntry/PasswordEntry.js
 import React, { useState } from 'react';
 import { validatePassword } from '../../utils/validation';
 
